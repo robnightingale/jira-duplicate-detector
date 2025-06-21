@@ -1,0 +1,5 @@
+[
+  {"id": "PROJ-1", "summary": "Cannot login", "description": "Login button gives error"},
+  {"id": "PROJ-2", "summary": "Login fails for users", "description": "User is unable to login"},
+  {"id": "PROJ-3", "summary": "Color updated", "description": "Change the main button from red to blue"}
+]
